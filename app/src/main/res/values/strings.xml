@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Flickr Browser</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_search">Search Activity</string>
+    <string name="title_activity_photo_detail">Photo Detail</string>
+    <string name="browse_image_description">Downloaded flickr photo</string>
+    <string name="activity_search">Search</string>
+    <string name="hint">Enter Search Tags</string>
+</resources>
